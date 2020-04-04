@@ -1,6 +1,6 @@
-# TextRetrieval
-Final project of cpp class in USTB
+# Text Retrieval
+Final project of CPP class in USTB
 
-该程序实现了从txt文件中定向检索对应的文本并统计频次的功能。
+This program realizes the function of directional retrieval of corresponding text from txt files and statistics of frequency.
 
-使用QT建立了图形化界面。
+Build GUI by QT
